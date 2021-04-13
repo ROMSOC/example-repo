@@ -6,7 +6,7 @@ This is a typical example of a public repository with the minimal elements requi
 ## Description
 The minimal structure of the repository should contain at least three elements: i) the source code, ii) a variety of benchmarks (or test-case scenarios), and iii) a documentation information (with installation and running instructions, which could be included also in the ``README.md`` file). No specific requirements are established regarding programing languages, the internal structure of the subfolders, type of license, file formats, or additional contents required for each particular repository.
 
-## Directory Structure
+## Directory structure
 All the repositories should include at least the ``README.md`` (markdown file) and  ``LICENSE`` files with the general description and information about the code available in the repository. A possible folder structure of the repository could be desiged as follows:
 ```
 .
