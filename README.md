@@ -1,4 +1,4 @@
-# Example of a ROMSOC repository
+# Example of a ROMSOC benchmark repository
 
 ## Summary
 This is a typical example of a public repository with the minimal elements required to have a well documented and functional structure open source project hosted in GitHub.
