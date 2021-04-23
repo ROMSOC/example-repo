@@ -18,10 +18,19 @@ All the repositories should include at least the ``README.md`` (markdown file) a
 │   └── source files (and subfolders if any)
 ├── documentation
 │   └── source files (and subfolders if any)
+├── CONTRIBUTORS
+├── CHANGELOG
 ├── LICENSE
-├── README.md
+├── README
 └── .gitignore
 ```
+## Disclaimer
+In downloading this SOFTWARE you are deemed to have read and agreed to the following terms:
+This SOFTWARE has been designed with an exclusive focus on civil applications. It is not to be used
+for any illegal, deceptive, misleading or unethical purpose or in any military applications. This includes ANY APPLICATION WHERE THE USE OF THE SOFTWARE MAY RESULT IN DEATH,
+PERSONAL INJURY OR SEVERE PHYSICAL OR ENVIRONMENTAL DAMAGE. Any redistribution of the software must retain this disclaimer. BY INSTALLING, COPYING, OR OTHERWISE
+USING THE SOFTWARE, YOU AGREE TO THE TERMS ABOVE. IF YOU DO NOT AGREE TO
+THESE TERMS, DO NOT INSTALL OR USE THE SOFTWARE
 
 ## Acknowledgments
 <img src="/images/EU_Flag.png" alt="EU Flag"  width="150" height="100" />
