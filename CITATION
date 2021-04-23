@@ -1,0 +1,9 @@
+@MISC{example-repo-0.1,
+key = {Example repo},
+author = {Prieto A.},
+title = {{example-repor} -- {An example for ROMSOC repository} (Version 0.1)},
+month = April,
+year = 2021,
+doi = {10.xxxx/zenodo.xxxxxxx},
+note = {see also: \url{https://github.com/ROMSOC/example-repo-0.1}}
+}
