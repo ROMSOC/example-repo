@@ -18,6 +18,7 @@ All the repositories should include at least the ``README.md`` (markdown file) a
 │   └── source files (and subfolders if any)
 ├── documentation
 │   └── source files (and subfolders if any)
+├── CITATION
 ├── CONTRIBUTORS
 ├── CHANGELOG
 ├── LICENSE
