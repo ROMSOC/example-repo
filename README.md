@@ -1,5 +1,5 @@
 
-<img src="images/romsoclogo-logo.png" alt="EU Flag"  width="150" height="100" />
+<img src="images/romsoclogo-logo.png" alt="EU Flag"  width="150"/>
 
 # Example of a ROMSOC benchmark repository
 
