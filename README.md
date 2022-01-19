@@ -1,3 +1,6 @@
+---
+image: /images/romsoclogo-logo.png
+---
 # Example of a ROMSOC benchmark repository
 
 ## Summary
