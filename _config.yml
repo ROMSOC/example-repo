@@ -1,5 +1,5 @@
-title: ROMSOC example-repo-0.1
-description: Example for a software repository in ROMSOC
-show_downloads: false
+title: ROMSOC
+description: Reduced Order Modelling, Simulation and Optimization of Coupled Systems
+show_downloads: true
 google_analytics: false
 theme: jekyll-theme-tactile
