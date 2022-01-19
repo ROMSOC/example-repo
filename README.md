@@ -1,6 +1,6 @@
----
-image: /images/romsoclogo-logo.png
----
+
+<img src="images/romsoclogo-logo.png" alt="EU Flag"  width="150" height="100" />
+
 # Example of a ROMSOC benchmark repository
 
 ## Summary
